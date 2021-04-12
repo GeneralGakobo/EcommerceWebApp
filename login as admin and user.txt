@@ -1,0 +1,15 @@
+login as admin
+
+url: localhost/Ecommerce/admin_area/
+
+email: davidgakobo1@gmail.com
+password: gakobo
+
+
+=======================================
+login as user 
+
+Register account and login using your registration email and password
+
+====================
+Thank you

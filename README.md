@@ -1,4 +1,3 @@
-# EcommerceWebApp
 # Developing an E-Commerce Website for Online Shopping
 
 - The business-to-consumer aspect of electronic commerce (e-commerce) is the most visible business use of the World Wide Web. 
